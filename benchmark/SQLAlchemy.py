@@ -1,6 +1,6 @@
 """ 
-Arquivo de configuração do banco de dados SQLAlchemy
-para o desafio de projeto "Integrando Python com SQLite e MongoDB"
+Configuration file for SQLAlchemy database
+for the project challenge "Integrating Python with SQLite and MongoDB"
 """
 
 from sqlalchemy import create_engine, Column, Integer, String, ForeignKey
